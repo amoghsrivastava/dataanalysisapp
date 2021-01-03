@@ -1,0 +1,15 @@
+// Task 6 graph
+digraph {
+	node [color=black shape=box style=none]
+	node [color=black shape=box style=none]
+	f4ef
+	node [color=black shape=circle style=none]
+	f4ef -> ecbe
+	node [color=".3 .9 .7" shape=circle style=filled]
+	f4ef -> adbe
+	node [color=black shape=box style=none]
+	node [color=".3 .9 .7" shape=box style=filled]
+	beef
+	node [color=".3 .9 .7" shape=circle style=filled]
+	beef -> adbe
+}
