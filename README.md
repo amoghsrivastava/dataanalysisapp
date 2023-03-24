@@ -9,7 +9,7 @@ The app is developed in Python 3.8 scripting language. The packages used in the 
 - orjson
 - matplotlib
 
-All packages can be installed using the commands from the installation section [Go to Installation](#Installation)
+All packages can be installed using the commands from the installation section [Go to prerequisites](#Prerequisites)
 
 
 ### Prerequisites
