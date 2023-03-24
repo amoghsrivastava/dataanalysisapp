@@ -9,7 +9,7 @@ The app is developed in Python 3.8 scripting language. The packages used in the 
 - orjson
 - matplotlib
 
-All packages can be installed using the commands from the installation section [Go to Installation](###Installation)
+All packages can be installed using the commands from the installation section [Go to Installation](#Installation)
 
 
 ### Prerequisites
@@ -24,7 +24,7 @@ Enter the following command to start using the command-line-interface
 ```bash
 python cw2.py -h
 ```
-You should get this sort of output. You can now use the commands to run the app. [View command examples](###Examples)
+You should get this sort of output. You can now use the commands to run the app. [View command examples](#Examples)
 ```bash
 usage: cw2.py [-h] [-u] [-d] -t  -f
 
